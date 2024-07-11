@@ -1,0 +1,6 @@
+pillow
+boto3
+pil
+numpy
+collections
+streamlit
