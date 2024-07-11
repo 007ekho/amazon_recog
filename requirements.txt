@@ -1,5 +1,5 @@
 pillow
+opencv-python-headless
 boto3
 numpy
-collections
 streamlit
