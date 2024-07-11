@@ -1,6 +1,6 @@
 pillow
 boto3
-pil
+PIL
 numpy
 collections
 streamlit
